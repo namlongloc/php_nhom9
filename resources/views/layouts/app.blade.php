@@ -94,7 +94,6 @@
             font-weight: bold;
             border-radius: 5px;
         }
-
     </style>
 </head>
 
@@ -148,7 +147,7 @@
                     <span>Quản lý học kỳ</span>
                 </a>
 
-                <a href="nienkhoa.php" class="tab_item">
+                <a href="{{ URL::to('/nienkhoa') }}" class="tab_item">
                     <ion-icon name="extension-puzzle"></ion-icon>
                     <span>Quản lý niên khóa</span>
                 </a>

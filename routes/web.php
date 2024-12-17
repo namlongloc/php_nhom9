@@ -20,3 +20,9 @@ Route::post('/admin-chaomung', [AdminController::class, 'chaomungxl'])->name('ad
 use App\Http\Controllers\BomonController;
 
 Route::resource('/bomon', BomonController::class);
+
+//nienkhoa
+use App\Http\Controllers\NienKhoaController;
+
+Route::resource('nienkhoa', NienKhoaController::class);
+
