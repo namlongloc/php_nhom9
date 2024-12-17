@@ -9,7 +9,7 @@
     
         <div class="btn">
             <button>
-            <a href="thembm.php">
+            <a href="{{ route('bomon.create') }}">
                 <ion-icon name="add-circle"></ion-icon>
                 <span>Thêm bộ môn</span>
             </a>
@@ -28,11 +28,17 @@
                     <td>{{ $bm->MaBM }}</td>
                     <td>{{ $bm->TenBM }}</td>
                     <td>
-                        <a href="{{ route('bomon.edit', $bm->MaBM) }}" class="btn btn-warning">Sửa</a>
+                        <a href="{{ route('bomon.edit', $bm->MaBM) }}" class="btn btn-warning">
+                            <ion-icon name="pencil"></ion-icon> Sửa
+                        </a>
+                        
+                        <!-- Nút Xóa -->
                         <form action="{{ route('bomon.destroy', $bm->MaBM) }}" method="POST" style="display:inline;">
                             @csrf
                             @method('DELETE')
-                            <button type="submit" class="btn btn-danger">Xóa</button>
+                            <button type="submit" class="btn btn-danger">
+                                <ion-icon name="trash"></ion-icon> Xóa
+                            </button>
                         </form>
                     </td>
                 </tr>

@@ -6,9 +6,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Quản lý bộ môn</title>
     <link rel="stylesheet" href="{{asset ('public/backend/css/adminn.css') }}" />
+    <link rel="stylesheet" href="{{ asset('public/backend/css/chinhsua.css') }}"/>
     <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script type="module" src="https://cdn.jsdelivr.net/npm/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://cdn.jsdelivr.net/npm/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+
     <style>
         *{
             text-decoration: none;
@@ -174,11 +178,10 @@
                 </a>
             </div>
         </div>
-        <div class = "container">
-            @yield('content')
-        </div>
+       
         <div class="admin_layout_right">
             <div>
+                @yield('content')
             </div>
             <div class="chantrang">
                 <span>Design by Nhóm 9</span>

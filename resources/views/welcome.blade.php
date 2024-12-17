@@ -24,7 +24,7 @@
                 <span>Phòng khảo thí</span>
             </a>
             <label class="dn">
-                <a href="dangnhap.php">
+                <a href="{{ URL::to('/logina') }}">
                     <span>Đăng nhập</span>
                 </a>
             </label>

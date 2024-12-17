@@ -6,6 +6,7 @@ use App\Http\Controllers\AdminController;
 //frontend
 Route::get('/', [HomeController::class, 'index'])->name('index');
 Route::get('/trang-chu', [HomeController::class, 'index'])->name('trang-chu');
+Route::get('/logina',[HomeController::class,'logina'])->name('logina');
 
 
 //backend

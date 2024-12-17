@@ -175,20 +175,16 @@
                 </a>
             </div>
         </div>
-        <div class="h2text">
-            @yield('chaomung')
-        </div>
         <div class="admin_layout_right">
-            <div>
-            </div>
-            <div class="chantrang">
-                <span>Design by Nhóm 9</span>
+            @yield('chaomung')
+    
+             <div class="chantrang">
+             <span>Design by Nguyễn Thanh Trúc</span>
 
             </div>
         </div>
 
     </div>
-
 </body>
 
 </html>

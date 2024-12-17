@@ -11,7 +11,7 @@ class Bomon extends Model
 
     protected $table = 'bomon'; // Bảng tương ứng
     protected $primaryKey = 'MaBM'; // Khóa chính
-    public $timestamps = true; // Sử dụng timestamps
+    public $timestamps = false ; // Không sử dụng timestamps
 
     protected $fillable = ['TenBM'];
 }
