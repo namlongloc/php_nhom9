@@ -3,57 +3,56 @@
 
 <div class="frame4">
     <span>GIỚI THIỆU KHOA</span>
-    <label>KHOA KỸ THUẬT VÀ CÔNG NGHỆ, THÀNH TỰU VÀ PHÁT TRIỂN</label>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Với sự phát triển của kỹ thuật hiện đại, Kỹ thụât và Công nghệ đóng một vai trò rất quan trọng trong phát triển công nghiệp, Khoa Kỹ thuật và Công nghệ (KT&CN) được thành lập theo quyết định số: 179/QĐ-ĐHTV ngày 20/10/2006 của Hiệu trưởng trường Đại học Trà Vinh với 5 đơn vị: Bộ môn Công nghệ Thông tin, bộ môn Điện - Điện tử, bộ môn Cơ khí - Động lực, bộ môn Xây dựng và Văn phòng Khoa. Hiện tại, đội ngũ của Khoa có 80 viên chức, tất cả họ đều trẻ, năng động và ham học hỏi. Vì thế, Khoa tạo nhiều cơ hội để họ được bồi dưỡng và nâng cao nghề nghiệp. Hằng năm, Khoa tuyển mới trên 500 sinh viên. Đặc biệt, số lượng sinh viên tìm được việc làm sau 1 năm tốt nghiệp là trên 90%.</p>
-    <a href="https://ktcn.tvu.edu.vn/gioi-thieu/gioi-thieu-khoa/1.html">Xem thêm</a>
+    <label>TẠI SAO NÊN CHỌN TH SCHOOL?</label>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TH School đem tới các chương trình giảng dạy quốc tế chất lượng cao, bao gồm Chương trình Mầm non Quốc tế và Chương trình Tiểu học Quốc tế. Được công nhận bởi Cambridge International Education, học sinh trung học có thể đạt được các bằng cấp được quốc tế công nhận bằng cách hoàn thành chương trình Cambridge Lower Secondary (Lớp 6-8), Chứng chỉ Giáo dục Trung học Quốc tế (Lớp 9-10), và các cấp độ A và AS của Cambridge (Lớp 11-12). Thông qua sự công nhận của tổ chức Western Association of Schools and Colleges (WASC), học sinh trường TH School cũng có cơ hội nhận bằng TH School High Diploma, được công nhận bởi các hệ thống giáo dục đại học trên toàn cầu. Với nhiều lộ trình học tập khác nhau, các học sinh tốt nghiệp TH School đã được nhận vào các trường đại học hàng đầu tại Việt Nam và trên thế giới.</p>
+    <a href="https://thschool.edu.vn/tai-sao-chon-th-school/niem-tu-hao-cua-th-school-ct19.html">Xem thêm</a>
 </div>
 <div class="frame5">
     <h3>TIN TỨC</h3>
     <div class="new">
         <div class="new1">
-            <img src="./hinh/new1.jpg"/>
+            <img src="{{asset('frontend/images/new_1.jpg')}}">
         </div>
         <div class="newtxt">
-            <p><a href="https://ktcn.tvu.edu.vn/tin-tuc/bai-viet/chia-se-kinh-nghiem-thiet-ke-thiet-bi-tang-song-ble-bluetooth-low-energy/144.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chia sẻ kinh nghiệm thiết kế thiết bị tăng sóng BLE (bluetooth low energy)</a></p>
-            <a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ngày 22.8.2023, Trường Đại học Trà Vinh đón tiếp hai chuyên gia Hoa Kỳ gồm TS. David Nghiêm và Ông Arthur Jason Nghiêm chia sẻ kinh nghiệm...</a>
-            <span><a href="">Xem thêm</a></span>
+            <p><a href="https://thschool.edu.vn/proudly-th-school/unique-8020-teaching-model-ct29.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mô hình 80/20 độc đáo</a></p>
+            <a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Với chương trình học tối ưu khi kết hợp 80% thời lượng giảng dạy bằng tiếng Anh, và 20% thời lượng các môn Việt Nam học bao gồm tiếng Việt, Ngữ văn, Lịch sử, Địa lý, GDCD ...</a>
+            <span><a href="https://thschool.edu.vn/proudly-th-school/unique-8020-teaching-model-ct29.html">Xem thêm</a></span>
         </div>
     </div>
 
     <div class="new">
 
         <div class="newtxt">
-            <p><a href="https://ktcn.tvu.edu.vn/tin-tuc/bai-viet/giang-vien-khoa-ky-thuat-va-cong-nghe-truong-dai-hoc-tra-vinh-du-hoi-nghi-khoa-hoc-quoc-gia-lan-thu-xvi-nam-2023/145.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Giảng viên Khoa Kỹ thuật và Công nghệ - Trường Đại học Trà Vinh dự Hội nghị khoa học quốc gia lần thứ XVI năm 2023</a></p>
-            <a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ngày 28 và 29.9.2023 – Giảng viên khoa Kỹ thuật và Công nghệ, Trường Đại học Trà Vinh tham dự Hội nghị Quốc gia về Nghiên cứu cơ bản và ứng dụng Công nghệ Thông tin lần thứ 16...</a>
-            <span><a href="">Xem thêm</a></span>
+            <p><a href="https://thschool.edu.vn/proudly-th-school/multicultural-learning-environment-ct31.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Môi trường học tập đa văn hóa</a></p>
+            <a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Với cộng đồng học sinh đến từ 21 quốc gia, các em có cơ hội giao lưu văn hóa, trao đổi quan điểm và có môi trường để luyện tập ngôn ngữ.</a>
+            <span><a href="https://thschool.edu.vn/proudly-th-school/multicultural-learning-environment-ct31.html">Xem thêm</a></span>
         </div>
         <div class="new1">
-            <img src="public/frontend/images/new2.jpg"/>
+            <img src="{{asset('frontend/images/new_2.jpg')}}">
         </div>
     </div>
 
     <div class="new">
         <div class="new1">
-            <img src="public/frontend/images/new3.jpg"/>
+            <img src="{{asset('frontend/images/new_3.jpg')}}"/>
         </div>
         <div class="newtxt">
-            <p><a href="https://ktcn.tvu.edu.vn/tin-tuc/bai-viet/khoa-ky-thuat-va-cong-nghe-to-chuc-hoi-nghi-kien-toan-ban-chap-hanh-hoi-cuu-sinh-vien-nhiem-ky-2023-2028/146.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Khoa Kỹ thuật và Công nghệ tổ chức Hội nghị kiện toàn Ban Chấp hành Hội Cựu Sinh viên nhiệm kỳ 2023-2028</a></p>
-            <a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sáng ngày 18/11/2023, Khoa Kỹ thuật và Công nghệ – Trường Đại học Trà Vinh tổ chức Hội nghị kiện toàn Ban Chấp hành Hội Cựu Sinh viên Khoa Kỹ thuật và Công nghệ nhiệm kỳ 2023 - 2028...</a>
-            <span><a href="https://ktcn.tvu.edu.vn/tin-tuc/bai-viet/khoa-ky-thuat-va-cong-nghe-to-chuc-hoi-nghi-kien-toan-ban-chap-hanh-hoi-cuu-sinh-vien-nhiem-ky-2023-2028/146.html">Xem thêm</a></span>
+            <p><a href="https://thschool.edu.vn/proudly-th-school/state-of-the-art-facility-ct32.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cơ sở vật chất hiện đại</a></p>
+            <a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TH School sở hữu quy mô diện tích cho cả 2 cơ sở Chùa Bộc và Hòa Lạc lên tới 20,000m2, trong đó các phòng học đều được trang bị đầy đủ với các thiết bị hiện đại.</a>
+            <span><a href="https://thschool.edu.vn/proudly-th-school/state-of-the-art-facility-ct32.html">Xem thêm</a></span>
         </div>
     </div>
 </div>
 <div class="frame6">
-    <h4>ĐỐI TÁC CỦA CHÚNG TÔI</h4>
+    <h4>CHỨNG NHẬN</h4>
     <div class="fr6img">
-        <img src="public/frontend/images/img1.png"/>
-        <img src="public/frontend/images/img2.jpg"/>
-        <img src="public/frontend/images/img3.jpg"/>
-        <img src="public/frontend/images/img4.png"/>
+        <img src="{{asset('frontend/images/chungnhan1.png')}}">
+        <img src="{{asset('frontend/images/chungnhan2.png')}}">
+        <img src="{{asset('frontend/images/chungnhan3.png')}}">
     </div>
 </div>
 <div class="chantrangg">
-        <span>Design by Nhóm 11</span>
+        <span>Design by TH School</span>
 </div>
 </div>
 

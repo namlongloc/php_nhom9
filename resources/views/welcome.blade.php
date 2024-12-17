@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hệ thống quản lý chấm thi</title>
-    <link rel="stylesheet" href="{{asset('public/frontend/css/tcgv.css')}}">
+    <link rel="stylesheet" href="{{asset('frontend/css/tcgv.css')}}">
     <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
 </head>
 <body>
@@ -12,7 +12,7 @@
     <div class="frame">
         <div class="frame1">
             <a href="{{ URL::to('/trang-chu') }}">
-                <span>Trang chủ BA</span>
+                <span>Trang chủ</span>
             </a>
             <a href="">
                 <span>Cổng thông tin sinh viên</span>
@@ -30,7 +30,7 @@
             </label>
         </div>
         <div class="biaset">
-            <img src="public/frontend/images/biaset.png"/>
+            <img src="{{asset('frontend/images/bia-set.png')}}">
         </div>
         <div class="frame2">
             <a href="{{ URL::to('/trang-chu') }}">
@@ -48,9 +48,9 @@
         </div>
         <div class="frame3">
             <button class="clickleft" onclick="plusDivs(-1)">&#10094;</button>
-                <img class="mySlides" src="public/frontend/images/anh1.jpg" style="width:60%; height: 300px;">
-                <img class="mySlides" src="public/frontend/images/anh2.jpg" style="width:60%; height: 300px;">
-                <img class="mySlides" src="public/frontend/images/anh3.jpg" style="width:60%; height: 300px;">
+                <img class="mySlides" src="{{asset('frontend/images/anh_1.jpg')}}" style="width:60%; height: 300px;">
+                <img class="mySlides" src="{{asset('frontend/images/anh_2.jpg')}}" style="width:60%; height: 300px;">
+                <img class="mySlides" src="{{asset('frontend/images/anh_3.jpg')}}" style="width:60%; height: 300px;">
             <button class="clickright" onclick="plusDivs(1)">&#10095;</button>
         </div>
         @yield('gioithieu')
